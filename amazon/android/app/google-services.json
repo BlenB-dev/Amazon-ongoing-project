@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "346889318964",
+    "project_id": "fir-cadef",
+    "storage_bucket": "fir-cadef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346889318964:android:7b38769a775cf09f1ed061",
+        "android_client_info": {
+          "package_name": "com.example.amazon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWhfuJb7CxrS7AWb6Iqiiki09eFZoBOco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
